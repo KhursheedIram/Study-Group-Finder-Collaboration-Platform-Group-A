@@ -10,11 +10,11 @@ The platform improves **academic networking, group coordination, and study produ
 
 # Tech Stack
 
-Frontend: React.js +vite+ CSS
-Backend: Spring Boot (Java) + Node.js
-Database: MySQL
-Authentication: JWT Authentication
-API Communication: REST APIs
+* Frontend: React.js +vite+ CSS
+* Backend: Spring Boot (Java) + Node.js
+* Database: MySQL
+* Authentication: JWT Authentication
+* API Communication: REST APIs
 
 
 
@@ -268,11 +268,11 @@ Members can join group
 
 # Security Features
 
-JWT Authentication
-Secure REST APIs
-Password encryption
-Server-side validation
-Protected endpoints
+* JWT Authentication
+* Secure REST APIs
+* Password encryption
+* Server-side validation
+* Protected endpoints
 
 
 
@@ -281,46 +281,46 @@ Protected endpoints
 
 ## Backend
 
-cd backend
-.\mvnw.cmd clean install
-.\mvnw.cmd spring-boot:run
+* cd backend
+* .\mvnw.cmd clean install
+* .\mvnw.cmd spring-boot:run
 
 
 ## Frontend
 
-cd frontend
-npm install
-npm run dev
+* cd frontend
+* npm install
+* npm run dev
 
 
 ## Database Setup
 
-Create MySQL database
+* Create MySQL database
 
-CREATE DATABASE studygroup;
+* CREATE DATABASE studygroup;
 
-Tables will be created automatically using **Hibernate (JPA).**
+* Tables will be created automatically using **Hibernate (JPA).**
 
 
 
 
 # Project Status
 
-Milestone 1 – Completed
-Milestone 2 – Completed
-Milestone 3 – Planned
-Milestone 4 – Planned
+* Milestone 1 – Completed
+* Milestone 2 – Completed
+* Milestone 3 – Planned
+* Milestone 4 – Planned
 
 
 
 # Contributors
 
-Poudala Lavanya 
-Khursheed Iram
-Teja Senapathi
-Sreerangapuram Harsha Vardhan
-Muga rohith krishna
-Preethi S
+* Poudala Lavanya
+* Khursheed Iram
+* Teja Senapathi
+* Sreerangapuram Harsha Vardhan
+* Preethi S
+* Muga rohith krishna
 
 
 
