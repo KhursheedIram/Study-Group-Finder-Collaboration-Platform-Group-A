@@ -131,6 +131,7 @@ public class GroupController {
             return ResponseEntity.badRequest().body(Map.of("message", e.getMessage()));
         }
     }
+<<<<<<< HEAD
 
     @DeleteMapping("/{id}")
     public ResponseEntity<?> deleteGroup(@PathVariable Long id, Principal principal) {
@@ -141,4 +142,6 @@ public class GroupController {
             return ResponseEntity.badRequest().body(Map.of("message", e.getMessage()));
         }
     }
+=======
+>>>>>>> f24badb73c4eef9d78621ade0d58b2757aeb202b
 }
